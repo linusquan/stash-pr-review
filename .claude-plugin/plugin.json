@@ -1,0 +1,8 @@
+{
+  "name": "stash-pr-review",
+  "version": "0.1.0",
+  "description": "Automated PR review for Bitbucket Stash with specialist subagents for diff fetching, architecture review, and principle checking",
+  "author": {
+    "name": "Li Quan"
+  }
+}
