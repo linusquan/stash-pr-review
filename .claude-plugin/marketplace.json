@@ -1,0 +1,24 @@
+{
+  "name": "mars-eng-ai-market-place",
+  "owner": {
+    "name": "Li Quan"
+  },
+  "metadata": {
+    "description": "Marketplace for Bitbucket Stash PR review tools",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "stash-pr-review",
+      "source": "./",
+      "description": "Automated PR review for Bitbucket Stash with specialist subagents for diff fetching, architecture review, and principle checking",
+      "version": "0.1.0",
+      "author": {
+        "name": "Li Quan"
+      },
+      "category": "code-review",
+      "keywords": ["pr-review", "bitbucket", "stash", "code-review", "architecture"],
+      "repository": "https://github.com/linusquan/stash-pr-review"
+    }
+  ]
+}
